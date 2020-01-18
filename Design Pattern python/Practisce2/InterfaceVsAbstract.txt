@@ -1,0 +1,4 @@
+1)If we dont Know anything about implementation just know the requirement specification then we should go for interface
+2)If we are talking about implementation but not completely then we should go for Abstract class
+1)Abstract and public
+2)Abstract and concrete
